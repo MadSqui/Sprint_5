@@ -1,0 +1,5 @@
+VALID_EMAIL = "bella_amelchuk_fs_15@ya.ru"
+VALID_PASSWORD = "qwerty123"
+NAME = "Bella Amelchuk"
+INVALID_EMAIL = "invalid-email@domain"
+INVALID_PASSWORD = "111"
